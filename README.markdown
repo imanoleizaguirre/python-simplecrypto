@@ -14,8 +14,8 @@ params as shown in the previous link
 
 #Usage
 
-    encrypted_message = aes_encryptor(secret_key, msg=plain_text)
-    decrypted_message = aes_decryptor(secret_key, msg=encrypted_message)
+    encrypted_message = aes_encryptor(secret_key, plain_text)
+    decrypted_message = aes_decryptor(secret_key, encrypted_message)
 
 #Dependencies
 
