@@ -1,4 +1,4 @@
-# Python encryptor/decriptor to match Java JCE AES Encryption Results (ECB mode)
+# Python encryptor/decryptor to match Java JCE AES Encryption Results (ECB mode)
 
 Credits to Thomas Sutton for the [original code](http://passingcuriosity.com/2009/aes-encryption-in-python-with-m2crypto/) working with base64
 
