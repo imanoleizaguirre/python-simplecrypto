@@ -2,7 +2,7 @@
 
 Credits to Thomas Sutton for the [original code](http://passingcuriosity.com/2009/aes-encryption-in-python-with-m2crypto/) working with base64
 
-I have forced the iv to be '\0' * 16 but you can pass another value by
+I have forced the iv to be *'\0' * 16* but you can pass another value by
 params as shown in the previous link
 
     # Decode the key and iv
